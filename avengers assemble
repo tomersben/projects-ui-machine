@@ -1,0 +1,13 @@
+
+ok so its not that deep to assemble you need th have{
+4 3.00 mm wide x 10mm long
+2 2.00mm wide x 1.00mm long
+4 2.00mm xn 2.5mm long
+}
+case:
+you print the stuff then you screw in the screen pcb amd backplate if you want
+  for the screen(the 2.00 x 2.5 screws)
+  for the backplate(3.0 x 10 screws)
+  for the pcb(2.00 x 10) screws
+pcb:
+its preety straight forward besides the 20 pin connector wich you soughter backwards so you connect the modules from the back
