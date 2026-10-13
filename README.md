@@ -4,9 +4,10 @@ it also uses a 1.69 inch color lcd screen so you cou could see the name of your 
 to be more technical the code has an array of actions and the number you press the navigation button the arry moves one so it'll know what to trigger.
 
 
-<img width="549" height="403" alt="image" src="https://github.com/user-attachments/assets/2543f873-1ce9-48d2-abfe-ce5780fb0e54" />
-<img width="1277" height="719" alt="image" src="https://github.com/user-attachments/assets/e2a9af19-0807-4391-8287-f3e0c9d5bb11" />
-<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/acce5db0-810c-42f0-aa64-433d1d5fba12" />
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/ea75229a-99f3-4b14-bc89-091b57664958" />
+<img width="3840" height="2158" alt="image" src="https://github.com/user-attachments/assets/c4be15ae-c2c4-45ed-ac13-70b5cf753a86" />
+<img width="3838" height="2158" alt="image" src="https://github.com/user-attachments/assets/09735aa5-08da-4307-b668-ef489db73969" />
+
 
 
 | Part                       | Price (USD) | Quantity | Link                                                                                      |
