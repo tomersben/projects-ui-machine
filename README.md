@@ -60,9 +60,6 @@ Buttons & encoder     ESP32 pins
 - ENC_A  -> GPIO 12
 - ENC_B  -> GPIO 13
 
-Notes & next steps
-- The code in the repository uses nanoFramework / ESP32 pin numbers. If you are actually using a Raspberry Pi Pico (RP2040), the pin numbering is different; tell me whether you want a Pico pin mapping and I will add it.
-- If you want a graphical wiring diagram (SVG or PNG) I can generate one and add it to the repo — upload a clear photo of the PCB silk (connector labels) or confirm which connector pin corresponds to each signal so the diagram matches your board exactly.
 
 
 | Part                       | Price (USD) | Quantity | Link                                                                                      |
